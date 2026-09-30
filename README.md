@@ -1,17 +1,6 @@
-# Campus-Network-Design
 # Campus Network Design & Simulation
 
-A secure and scalable campus network designed and simulated using **Cisco Packet Tracer** for the ITCE400 Networking course.
-
-## 👥 Project Team
-
-* **Arwa Hussain Aloraibi** — 202306671
-* **Rawan Almulla** — 202206609
-* **Noof Abdulwahed Hasan** — 202204652
-
-**Course:** ITCE400 — Section 1
-
----
+A secure and scalable campus network designedو simulated using **Cisco Packet Tracer** 
 
 ## 📌 Project Overview
 
@@ -68,7 +57,9 @@ The Main Building provides centralized connectivity to Building 1 and Building 2
 | **NAT**                 | Internet connection sharing                      |
 | **Wireless Networking** | Wireless access for authorized users             |
 
-> RIP is supported by the router for basic routing functionality, but OSPF was selected for this design because it provides more suitable routing capabilities for a multi-building campus network.
+> RIP is supported by the router for basic routing functionality; however, 
+due to its slow convergence and hop-count limitation, it is not preferred for 
+the campus network
 
 ---
 
@@ -170,9 +161,5 @@ The `.pkt` file can be opened using **Cisco Packet Tracer**.
 * NAT
 
 ---
-
-## 📚 Course
-
-**ITCE400 — Computer Networks**
 
 This project was developed as part of the ITCE400 course project.
