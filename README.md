@@ -4,7 +4,7 @@ A secure and scalable campus network designedو simulated using **Cisco Packet T
 
 ## Network Topology
 
-![Campus network topology](https://ibb.co/qFp6tq1N)
+![Campus network topology](https://i.imgur.com/JEzU3Tu.png)
 
 ## 📌 Project Overview
 
