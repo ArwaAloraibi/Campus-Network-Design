@@ -122,7 +122,7 @@ The network was implemented through the following stages:
 
 ---
 
-## 🧪 Testing
+## ✔️ Testing
 
 The completed network was tested using Cisco Packet Tracer to verify:
 
