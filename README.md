@@ -151,7 +151,6 @@ The `.pkt` file can be opened using **Cisco Packet Tracer**.
 ## 🛠️ Tools
 
 * Cisco Packet Tracer
-* Networking concepts and protocols
 * IP subnetting
 * VLAN configuration
 * OSPF
