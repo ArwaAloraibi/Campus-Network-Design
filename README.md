@@ -2,6 +2,10 @@
 
 A secure and scalable campus network designedو simulated using **Cisco Packet Tracer** 
 
+## Network Topology
+
+![Campus network topology](https://ibb.co/qFp6tq1N)
+
 ## 📌 Project Overview
 
 This project focuses on designing and simulating a secure and scalable campus network for a college consisting of three physically separated buildings:
